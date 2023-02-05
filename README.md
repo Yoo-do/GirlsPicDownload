@@ -19,4 +19,4 @@ GirlPicDownload
 
 picture目录下为下载的部分图片集，供展示
 
-GPC.exe 为打包好的单exe文件, 可直接使用
+Main.exe 为打包好的单exe文件, 可直接使用
